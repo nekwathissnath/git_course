@@ -2,3 +2,5 @@
 /secret-files
 /hellofolder/secret-files/*
 !/hellofolder/secret-files/secrets-example.txt
+/hello2.txt
+
