@@ -1,1 +1,1 @@
-Hellow everyone by api
+Hellow everyone by email or API
