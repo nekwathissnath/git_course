@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-Hello World, and hello again
-=======
-Hello World!!
+
 Hello again!
->>>>>>> email-feature
+hello once more
+
